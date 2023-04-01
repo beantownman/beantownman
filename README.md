@@ -2,6 +2,8 @@
 - 👀 I’m interested in JavaScript, React, ReactNative, Platform Businsess Model, GraphQL
 - 🌱 I’m currently learning Reactnative and GraphQL
 - 💞️ I’m looking to collaborate on Platfrom Business Model.
+- Working on Composable Commerce and a SME on it. 
+- Won the first very MACHathon. 
 - 📫 How to reach me ...
 
 <!---
