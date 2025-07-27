@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beantownman
+- 👋 Hi, I’m Sunjay aks  @beantownman on X - twitter ,
 - 👀 JavaScript, React, ReactNative, GraphQL, Platform Business Model, and composable (MACH) commerce are all things that fascinate me.
 - 🌱 I’m currently learning to research and build AI agents in ecommerce
 - 💞️ Collaboration on platform business models or anything related to MACH or composable-based architecture/solutions is what I'm looking for.
